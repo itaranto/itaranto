@@ -1,3 +1,5 @@
 # Ignacio Taranto
 
-Hello, I host my repos here: https://gitlab.com/itaranto
+Hello, I'm a senior software engineer.
+
+I host my repos here: https://gitlab.com/itaranto
